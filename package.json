@@ -1,0 +1,29 @@
+{
+  "name": "sidehustle",
+  "version": "1.0.0",
+  "description": "Side Hustle is an application that is used by the youth who are looking for additional ways of making income.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwania-Kelvin/sidehustle_backend.git"
+  },
+  "keywords": [
+    "sidehustle"
+  ],
+  "author": "mwania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwania-Kelvin/sidehustle_backend/issues"
+  },
+  "homepage": "https://github.com/Mwania-Kelvin/sidehustle_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
