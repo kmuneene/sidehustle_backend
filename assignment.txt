@@ -1,0 +1,3 @@
+read abt dotenv
+store port inside dotenv file
+
